@@ -18,10 +18,10 @@ Vite - Fast development build tool
 4. Start the development server: npm run dev
 
 # Live Demo
-You can view a live demo of the portfolio [[here](<!-- Uploading "Screenshot 2025-02-19 122150.png"... -->)].
+https://spotify-clone-o7los2dj1-rittika04s-projects.vercel.app/
 
 # Screenshots
-
+You can view a live demo of the app [[here](<!-- Uploading "Screenshot 2025-02-19 122150.png"... -->)]
 
 # Contributing
 Feel free to fork this repository and make improvements. Contributions are welcome!
