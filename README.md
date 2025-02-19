@@ -20,9 +20,6 @@ Vite - Fast development build tool
 # Live Demo
 https://spotify-clone-o7los2dj1-rittika04s-projects.vercel.app/
 
-# Screenshots
-You can view a live demo of the app [[here](<!-- Uploading "Screenshot 2025-02-19 122150.png"... -->)]
-
 # Contributing
 Feel free to fork this repository and make improvements. Contributions are welcome!
 
