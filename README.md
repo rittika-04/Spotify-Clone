@@ -18,7 +18,7 @@ Vite - Fast development build tool
 4. Start the development server: npm run dev
 
 # Screenshots
-
+![Image](https://github.com/user-attachments/assets/3788acbe-795a-46de-8626-e239245d05a2)
 
 # Live Demo
 https://spotify-clone-o7los2dj1-rittika04s-projects.vercel.app/
